@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Localization</string>
+
+    <string name="app_lang_name">English</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="language">Language</string>
+
+</resources>

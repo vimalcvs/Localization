@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_lang_name">অসমীয়া</string>
+    <string name="select">বাছনি কৰক</string>
+    <string name="cancel">বাতিল কৰক</string>
+    <string name="language">ভাষা</string>
+</resources>
